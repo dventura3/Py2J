@@ -11,3 +11,5 @@ A translator from Python to Java
 + Management indentation and building lexical analyzer;
 + Management of the return values ​​from the procedure;
 + Construction of models related to the mapping of Python objects (GenericList, tuple, Pdictionary)
+
+Library Used: JLex and Cup.
